@@ -1,2 +1,3 @@
 # Data-Science-Learning
-Python Regex, Pandas &amp; NumPy
+* Introduction to Data Science by University of Michigan, Coursera
+* Python Regex, Pandas &amp; NumPy
